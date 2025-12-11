@@ -1,5 +1,6 @@
 ## dotfiles
 
-Current build:
+**Current Build:**
 
-![Screenshot](desktop-screeenshot.png)
+<img src="https://github.com/nyrrd/dotfiles/blob/main/desktop-screenshot.png" altname="Screenshot">
+<!--![Screenshot](/desktop-screeenshot.png)-->
