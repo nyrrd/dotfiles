@@ -2,4 +2,4 @@
 
 Current build:
 
-![[desktop-screenshot.png]]
+![Screenshot](desktop-screeenshot.png)
